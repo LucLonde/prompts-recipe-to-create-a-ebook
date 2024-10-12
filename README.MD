@@ -1,4 +1,4 @@
-<p align="center">
+se<p align="center">
     <img width="100" src=".github/assets/banner.png">
 </p>
 
@@ -87,6 +87,3 @@ felipe-exe">LinkedIn</a>
 <br/><br/>
 <p>
 
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
